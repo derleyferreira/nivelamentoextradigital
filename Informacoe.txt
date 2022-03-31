@@ -8,3 +8,5 @@ pelo tempo disponível, realizei o vínculo direto no banco de dados para poder 
 
 3 - Criei somente os atributos necessários nas classes de tabelas auxiliares, tais como U.F. e Cidade, somente para 
 que eu pudesse deixar o cadastro principal funcional.
+
+4 - Coloar o arquivo Conf.ini junto com o executável e configurar o caminho do banco de dados.
