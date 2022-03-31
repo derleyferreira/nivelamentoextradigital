@@ -1,0 +1,10 @@
+Observações:
+
+1 - Notei que o campo TXOBS da tabela CADEMPRESA está com o tipo Inteiro, então não coloquei campo para observação.
+
+2 - Notei que o cadastro de funcionários já existente no banco de dados não possui o vínculo 
+com a empresa (Campo IDEMPRESA preenchido). Como não foi solicitado para criar o cadastro de funcionários, até mesmo
+pelo tempo disponível, realizei o vínculo direto no banco de dados para poder testar as funcionalidades do programa.
+
+3 - Criei somente os atributos necessários nas classes de tabelas auxiliares, tais como U.F. e Cidade, somente para 
+que eu pudesse deixar o cadastro principal funcional.

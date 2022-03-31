@@ -1,0 +1,18 @@
+unit uCidades;
+
+interface
+uses uUF;
+Type
+   TCidade = class
+      private
+
+      public
+         property IdCidade : Integer read FIdCidade Write fIdCidade;
+         property NomeCidade : String read FNomeCidade Write FNomeCidade;
+         property UF
+
+   end;
+
+implementation
+
+end.

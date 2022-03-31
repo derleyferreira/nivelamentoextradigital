@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/28 23:47:23.000.034,=C:\Users\derle\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/28 23:47:56.000.559,C:\Users\derle\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\derle\Desktop\Nivelamento_Extradigital\ufrmCadastroEmpresa.pas</Transaction>
+    <Transaction>2022/03/28 23:47:56.000.559,C:\Users\derle\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\derle\Desktop\Nivelamento_Extradigital\ufrmCadastroEmpresa.dfm</Transaction>
+    <Transaction>2022/03/28 23:48:05.000.791,C:\Users\derle\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\derle\Desktop\Nivelamento_Extradigital\prjNivelamentoExtradigital.dproj</Transaction>
+    <Transaction>2022/03/29 00:03:01.000.030,=C:\Users\derle\Desktop\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 00:03:13.000.582,C:\Users\derle\Desktop\Nivelamento_Extradigital\Unit1.pas=C:\Users\derle\Desktop\Nivelamento_Extradigital\uDMConexao.pas</Transaction>
+    <Transaction>2022/03/29 00:03:13.000.582,C:\Users\derle\Desktop\Nivelamento_Extradigital\Unit1.dfm=C:\Users\derle\Desktop\Nivelamento_Extradigital\uDMConexao.dfm</Transaction>
+    <Transaction>2022/03/29 22:50:40.000.325,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 22:50:49.000.959,C:\Nivelamento_Extradigital\Unit1.pas=C:\Nivelamento_Extradigital\uEmpresa.pas</Transaction>
+    <Transaction>2022/03/29 23:05:12.000.894,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 23:05:28.000.639,C:\Nivelamento_Extradigital\Unit1.pas=C:\Nivelamento_Extradigital\uDMEmpresa.pas</Transaction>
+    <Transaction>2022/03/29 23:05:28.000.639,C:\Nivelamento_Extradigital\Unit1.dfm=C:\Nivelamento_Extradigital\uDMEmpresa.dfm</Transaction>
+    <Transaction>2022/03/29 23:12:01.000.198,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/29 23:12:13.000.239,C:\Nivelamento_Extradigital\Unit1.pas=C:\Nivelamento_Extradigital\uTipos.pas</Transaction>
+    <Transaction>2022/03/30 01:55:03.000.619,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 01:55:17.000.431,C:\Nivelamento_Extradigital\ufrmConsultaEmpresa.pas=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 01:55:17.000.431,C:\Nivelamento_Extradigital\ufrmConsultaEmpresa.dfm=C:\Nivelamento_Extradigital\Unit1.dfm</Transaction>
+    <Transaction>2022/03/30 10:47:03.000.321,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 10:47:11.000.257,C:\Nivelamento_Extradigital\Unit1.pas=C:\Nivelamento_Extradigital\uEndereco.pas</Transaction>
+    <Transaction>2022/03/30 10:50:31.000.228,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 10:50:39.000.657,C:\Nivelamento_Extradigital\Unit1.pas=C:\Nivelamento_Extradigital\uUF.pas</Transaction>
+    <Transaction>2022/03/30 10:51:00.000.223,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 10:51:07.000.165,C:\Nivelamento_Extradigital\Unit1.pas=C:\Nivelamento_Extradigital\uCidades.pas</Transaction>
+    <Transaction>2022/03/30 10:56:34.000.458,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 10:56:45.000.967,C:\Nivelamento_Extradigital\Unit1.dfm=C:\Nivelamento_Extradigital\uDMEndereco.dfm</Transaction>
+    <Transaction>2022/03/30 10:56:45.000.967,C:\Nivelamento_Extradigital\Unit1.pas=C:\Nivelamento_Extradigital\uDMEndereco.pas</Transaction>
+    <Transaction>2022/03/30 21:56:16.000.964,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 21:56:24.000.276,C:\Nivelamento_Extradigital\uDMCidade.pas=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 21:56:24.000.276,C:\Nivelamento_Extradigital\uDMCidade.dfm=C:\Nivelamento_Extradigital\Unit1.dfm</Transaction>
+    <Transaction>2022/03/30 22:05:03.000.825,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 22:05:11.000.818,C:\Nivelamento_Extradigital\uDMUF.pas=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 22:05:11.000.818,C:\Nivelamento_Extradigital\uDMUF.dfm=C:\Nivelamento_Extradigital\Unit1.dfm</Transaction>
+    <Transaction>2022/03/31 00:07:45.000.985,=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 00:08:44.000.345,C:\Nivelamento_Extradigital\uDMFuncionarios.pas=C:\Nivelamento_Extradigital\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 00:08:44.000.345,C:\Nivelamento_Extradigital\uDMFuncionarios.dfm=C:\Nivelamento_Extradigital\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

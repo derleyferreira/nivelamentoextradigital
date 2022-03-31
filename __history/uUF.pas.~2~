@@ -1,0 +1,13 @@
+unit uUF;
+
+interface
+type
+   TUf = class
+      private
+
+      public
+   end;
+
+implementation
+
+end.

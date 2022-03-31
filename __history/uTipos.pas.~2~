@@ -1,0 +1,9 @@
+unit uTipos;
+
+interface
+
+   TOperacaoCadastro = (ocIncluir, ocAlterar, ocExcluir);
+
+implementation
+
+end.

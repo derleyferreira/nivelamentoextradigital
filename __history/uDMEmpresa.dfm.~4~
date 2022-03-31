@@ -1,0 +1,13 @@
+object DM_EMPRESA: TDM_EMPRESA
+  OldCreateOrder = False
+  Height = 272
+  Width = 355
+  object Q_OPERACAO: TFDQuery
+    Left = 48
+    Top = 48
+  end
+  object Q_PESQUISA: TFDQuery
+    Left = 48
+    Top = 120
+  end
+end

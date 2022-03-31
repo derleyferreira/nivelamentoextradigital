@@ -1,0 +1,32 @@
+object DM_EMPRESA: TDM_EMPRESA
+  OldCreateOrder = False
+  OnCreate = DataModuleCreate
+  OnDestroy = DataModuleDestroy
+  Height = 272
+  Width = 355
+  object Q_OPERACAO: TFDQuery
+    Left = 48
+    Top = 48
+  end
+  object Q_PESQUISA: TFDQuery
+    Left = 48
+    Top = 120
+  end
+  object Q_CONSULTA: TFDQuery
+    Left = 48
+    Top = 192
+  end
+  object DSP_CONSULTA: TDataSetProvider
+    DataSet = Q_CONSULTA
+    Options = [poAllowCommandText, poUseQuoteChar]
+    Left = 112
+    Top = 192
+  end
+  object CDS_CONSULTA: TClientDataSet
+    Aggregates = <>
+    Params = <>
+    ProviderName = 'DSP_CONSULTA'
+    Left = 192
+    Top = 192
+  end
+end

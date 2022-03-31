@@ -1,0 +1,48 @@
+unit uDMFuncionarios;
+
+interface
+
+uses
+  System.SysUtils, System.Classes, FireDAC.Stan.Intf, FireDAC.Stan.Option,
+  FireDAC.Stan.Param, FireDAC.Stan.Error, FireDAC.DatS, FireDAC.Phys.Intf,
+  FireDAC.DApt.Intf, FireDAC.Stan.Async, FireDAC.DApt, Datasnap.DBClient,
+  Datasnap.Provider, Data.DB, FireDAC.Comp.DataSet, FireDAC.Comp.Client;
+
+type
+  TDM_FUNCIONARIOS = class(TDataModule)
+    Q_CONSULTA: TFDQuery;
+    DSP_CONSULTA: TDataSetProvider;
+    CDS_CONSULTA: TClientDataSet;
+    procedure DataModuleCreate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+
+    function SelecionarFuncionariosEmpresa(pIdEmpresa : Integer) : Boolean;
+
+  end;
+
+
+implementation
+
+{%CLASSGROUP 'Vcl.Controls.TControl'}
+
+uses uDMConexao;
+
+{$R *.dfm}
+
+{ TDM_FUNCIONARIOS }
+
+procedure TDM_FUNCIONARIOS.DataModuleCreate(Sender: TObject);
+begin
+   DM_CONEXAO.AtribuiConexao(Self)
+end;
+
+function TDM_FUNCIONARIOS.SelecionarFuncionariosEmpresa(
+  pIdEmpresa: Integer): Boolean;
+begin
+
+end;
+
+end.
